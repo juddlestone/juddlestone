@@ -1,5 +1,4 @@
 <h1 align="center">Hello, I'm Jack!👋🏼</h1>
-<p></p>
 
 ## 🧠 What I'm currently learning
 - Azure 
@@ -13,3 +12,7 @@
 
 ## 👨🏼‍💻 Currently Working On
 🍕 [Pizzalicious](https://github.com/juddlestone/pizzalicious) - Building the infrastructure for fictional pizza startup.
+
+## ➡️ Follow Me
+![Twitter Follow](https://img.shields.io/twitter/follow/juddlestone?style=social)
+![GitHub followers](https://img.shields.io/github/followers/juddlestone?style=social)
