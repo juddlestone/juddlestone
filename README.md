@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm Jack!👋🏼</h1>
+<p></p>
 
-<!--
-**juddlestone/juddlestone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 What I'm currently learning
+- Azure 
+- Python
+- Terraform
 
-Here are some ideas to get you started:
+## 😀 My Hobbies
+- Golf
+- Gaming 
+- DJing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏼‍💻 Currently Working On
+🍕 [Pizzalicious](https://github.com/juddlestone/pizzalicious) - Building the infrastructure for fictional pizza startup.
