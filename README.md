@@ -26,4 +26,4 @@
 <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals" width="100" height="100"/> &emsp;
 
 ### 👨🏼‍💻 Currently Working On
-🍕 [Pizzalicious](https://github.com/juddlestone/pizzalicious) - Building the infrastructure for fictional pizza startup.
+🍕 [CloudPizza](https://github.com/juddlestone/cloudpizza) - Building the infrastructure for fictional pizza startup.
