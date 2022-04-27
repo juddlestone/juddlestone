@@ -25,5 +25,5 @@
 <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure Admin" width="100" height="100"/> &emsp;
 <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals" width="100" height="100"/> &emsp;
 
-### 👨🏼‍💻 Currently Working On
+<!-- ### 👨🏼‍💻 Currently Working On
 🍕 [CloudPizza](https://github.com/juddlestone/cloudpizza) - Building the infrastructure for fictional pizza startup.
