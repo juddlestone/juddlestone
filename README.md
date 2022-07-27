@@ -15,6 +15,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> &emsp;
   <!-- <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github Logo" width="50" height="50"/> &emsp; -->
+  <img src="https://cdn.worldvectorlogo.com/logos/windows-server.svg" alt="Windows Server" width="150" height="50"/> &emsp;
 </p>
 
 
