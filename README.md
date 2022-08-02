@@ -1,19 +1,20 @@
 ### Hello, I'm Jack <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### 🧠 What I'm currently learning
+### 🧠 What I'm focusing on currently
 - CI/CD
 - Python
 - Terraform
+- Linux
 
 ### 🛠️ Tools & Languages
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> &emsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="Powershell Logo" width="50" height="50"/> &emsp;
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform Logo" width="50" height="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/> &emsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png" alt="Azure Devops" width="50" height="50"/> &emsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="Powershell Logo" width="50" height="50"/> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> &emsp; 
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform Logo" width="50" height="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> &emsp;
-  <!-- <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github Logo" width="50" height="50"/> &emsp; -->
   <img src="https://cdn.worldvectorlogo.com/logos/windows-server.svg" alt="Windows Server" width="150" height="50"/> &emsp;
 </p>
 
