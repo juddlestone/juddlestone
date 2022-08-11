@@ -1,6 +1,6 @@
 ### Hello, I'm Jack <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### 🧠 What I'm focusing on currently
+### 🧠 What I'm currently focusing on
 - CI/CD
 - Python
 - Terraform
