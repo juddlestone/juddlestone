@@ -1,11 +1,11 @@
 ### Hello, I'm Jack <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### 🧠 What I'm currently focusing on improving
+### 🧠 What I'm Currently Improving
 - CI/CD
 - Python
 - Linux
 
-### 🛠️ Tools and languages
+### 🛠️ Tools & Languages
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/> &emsp;
   <img src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png" alt="Azure Devops" width="50" height="50"/> &emsp;
