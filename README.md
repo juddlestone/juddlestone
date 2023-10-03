@@ -1,9 +1,10 @@
-### Hello, I'm Jack <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### 👋 Hey, I'm Jack!
+A Platform Engineer based in the Midlands, United Kingdom.
 
 ### 🧠 What I'm Currently Improving
-- CI/CD
-- Python
-- Linux
+- CI/CD.
+- Python.
+- Linux.
 
 ### 🛠️ Tools & Languages
 <p>
