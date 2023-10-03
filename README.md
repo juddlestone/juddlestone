@@ -1,9 +1,8 @@
 ### Hello, I'm Jack <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### 🧠 What I'm currently focusing on
+### 🧠 What I'm currently focusing on improving
 - CI/CD
 - Python
-- Terraform
 - Linux
 
 ### 🛠️ Tools & Languages
@@ -21,9 +20,7 @@
 
 ### 🏆 Certifications
 <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="Terraform" width="100" height="100"/> &emsp;
-<img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS SOA" width="100" height="100"/> &emsp;
-<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS SA" width="100" height="100"/> &emsp;
-<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS CP" width="100" height="100"/> &emsp;
+<img src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"  alt="Solution Architect" width="100" height="100"/> &emsp;
 <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure Admin" width="100" height="100"/> &emsp;
 <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals" width="100" height="100"/> &emsp;
 
