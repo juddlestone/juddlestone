@@ -5,9 +5,8 @@
 - Python
 - Linux
 
-### 🛠️ Tools & Languages
+### 🛠️ Tools and languages
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/> &emsp;
   <img src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png" alt="Azure Devops" width="50" height="50"/> &emsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="Powershell Logo" width="50" height="50"/> &emsp;
