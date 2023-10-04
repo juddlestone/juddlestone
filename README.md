@@ -1,5 +1,5 @@
 ### 👋 Hey, I'm Jack!
-A Platform Engineer based in the Midlands, United Kingdom.
+An engineer based in the East Midlands, United Kingdom.
 
 ### 🧠 What I'm Currently Improving
 - CI/CD.
