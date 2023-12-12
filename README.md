@@ -1,8 +1,19 @@
 # 👋 Hello, I'm Jack!
+A passionate and curious engineer currently working with Azure, Azure DevOps, Linux, Python, PowerShell, and Terraform.
 
-<img src="https://github.com/juddlestone/juddlestone/assets/45743461/1d24e5d8-2254-4618-9ea6-08f996f93cee" alt="image" style="width:600px;height:auto;">
 
-A passionate, curious engineer currently working with Azure, Azure DevOps, Linux, Python, PowerShell, and Terraform.
+<div style='text-align: center;'>
+<p style='text-align: center;'><strong>"Progress not perfection"</strong></p>
+<img src="https://github.com/juddlestone/juddlestone/assets/45743461/7eab3466-79fa-41d8-8ac1-402d07cd804c" alt="image" style="width:300px;height:auto;">
+</div>
+
+
+## 🚀 My Interests
+- 🎧 Music
+- 🫛 Podcasts
+- 📖 Reading
+- 🚶‍♂️ Walking
+- 🏌️‍♂️ Golf
 
 ## 💼 My Tech Stack
 
