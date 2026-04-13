@@ -1,5 +1,3 @@
-### Hello, I'm Jack! 🙋🏼‍♂️
-
 ```powershell
 # My domain
 $domain = "itsjack.cloud"
